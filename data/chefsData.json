@@ -7,35 +7,41 @@
     "bio": "Chef Vikas Khanna is a classically trained Indian chef with over 20 years of experience in the culinary industry. He started his career in Delhi, where he worked at several Michelin-starred restaurants before moving to New York City to work at some of the top restaurants in the city. Chef Khanna is known for his innovative use of fresh, seasonal ingredients and his ability to create dishes that are both delicious and visually stunning.",
     "recipes": [
       {
-        "recipe_name": "Roasted Beet Salad",
+        "_id": "1-1",
+        "recipe_name": "Kacchi Bashmoti",
+        "img": "https://i.ibb.co/c1Jt89z/Kacchi-Bashmoti-for-5.jpg",
         "ingredients": [
-          "beets",
-          "goat cheese",
-          "walnuts",
-          "balsamic vinegar",
-          "olive oil"
+          "Tender goat",
+          "Fried onions",
+          "Yoghurt",
+          "Fresh herbs",
+          "Olive oil"
         ],
-        "method": "Roast beets in oven, crumble goat cheese and chop walnuts, mix with balsamic and olive oil dressing.",
+        "method": "Marinate the meat, par-boil the rice, dum cook the biryani in the oven or stovetop, To marinate the meat, you will need to make some fried onions.",
         "rating": 4.5,
         "favourite": true
       },
       {
-        "recipe_name": "Pasta with Pesto",
+        "_id": "1-2",
+        "recipe_name": "Chicken Grill",
+        "img": "https://i.ibb.co/dMYFvJ7/akzj-hero.webp",
         "ingredients": [
-          "pasta",
-          "basil",
-          "garlic",
-          "pine nuts",
-          "parmesan cheese"
+          "Boneless chicken",
+          "Ginger-garlic paste",
+          "Lemon",
+          "Yoghurt",
+          "Kasuri"
         ],
-        "method": "Cook pasta, blend basil, garlic, pine nuts, and parmesan cheese to make pesto sauce, toss with pasta.",
+        "method": "Serve simple Bengali garden salad, which is basically in a serving plate place sliced red onion, tomato, cucumber and drizzle lemon juice on the top.",
         "rating": 4.0,
         "favourite": true
       },
       {
-        "recipe_name": "Panta Vaat",
-        "ingredients": ["pani", "vat"],
-        "method": "Cook pasta, blend basil, garlic, pine nuts, and parmesan cheese to make pesto sauce, toss with pasta.",
+        "_id": "1-3",
+        "recipe_name": "Morog Polao",
+        "img": "https://i.ibb.co/br1LnX5/quzt-hero.webp",
+        "ingredients": ["Rice", "Chicken", "Fat", "Spices", "Green chillies"],
+        "method": "Make sure to pat dry the chicken pieces before you cut. Use boneless chicken pieces that are cut in small same size and shape.",
         "rating": 4.2,
         "favourite": true
       }
@@ -50,35 +56,47 @@
     "bio": "Chef Sanjeev Kapoor is a culinary prodigy whose passion has taken him around the world. Experienced in French, Italian, and Asian cuisine, he has earned repute in the kitchen as well as recognition among the food critics.",
     "recipes": [
       {
-        "recipe_name": "Chicken Polao",
+        "_id": "2-1",
+        "recipe_name": "Sheekh Kabab",
+        "img": "https://i.ibb.co/6vr7NS5/zglw-hero.webp",
         "ingredients": [
-          "beets",
-          "goat cheese",
-          "walnuts",
-          "balsamic vinegar",
-          "olive oil"
+          "Green chillies",
+          "Beef",
+          "Black pepper",
+          "Salt",
+          "Garam masalas"
         ],
-        "method": "Roast beets in oven, crumble goat cheese and chop walnuts, mix with balsamic and olive oil dressing.",
+        "method": "In a large bowl, mix lamb mince with few Tbsp of vinegar, fenugreek leaves. Then add garlic paste, ginger paste, salt and black pepper as per taste.",
         "rating": 4.9,
         "favourite": true
       },
       {
-        "recipe_name": "Halim",
+        "_id": "2-2",
+        "recipe_name": "Haleem",
+        "img": "https://i.ibb.co/NVL2Tr2/z0iv-hero.webp",
         "ingredients": [
-          "pasta",
-          "basil",
-          "garlic",
-          "pine nuts",
-          "parmesan cheese"
+          "Mutton",
+          "Ginger paste",
+          "Urad dal",
+          "Chilli powder",
+          "Yoghurt"
         ],
-        "method": "Cook pasta, blend basil, garlic, pine nuts, and parmesan cheese to make pesto sauce, toss with pasta.",
+        "method": "Hyderabadi delicacy, wash and soak the broken wheat or dalia for half an hour. Trim the mutton (boneless) of any excess fat. Add the mutton to a pressure cooker.",
         "rating": 3.8,
         "favourite": true
       },
       {
-        "recipe_name": "Kacchi Biriyani",
-        "ingredients": ["pani", "vat"],
-        "method": "Cook pasta, blend basil, garlic, pine nuts, and parmesan cheese to make pesto sauce, toss with pasta.",
+        "_id": "2-3",
+        "recipe_name": "Butter chicken",
+        "img": "https://i.ibb.co/dBTcTML/butter-chicken-recipe-2.jpg",
+        "ingredients": [
+          "Boneless chicken thigh",
+          "Salt",
+          "Ginger paste",
+          "Garlic paste",
+          "Paprika powder"
+        ],
+        "method": "In a large bowl, season the chicken breast with salt, pepper, 1 teaspoon of chili powder, and the teaspoon of turmeric. Let sit for 15 minutes to marinate.",
         "rating": 4.7,
         "favourite": true
       }
@@ -93,35 +111,41 @@
     "bio": "Sous Chef Shipra Khanna is the woman behind the flavor of Californi's well-renowned Desi Food Hut. Her prior experience in Asian cuisine is evident in every bite he serves. Heavy on flavor and light on calories, her dishes are always fresh and delicious.",
     "recipes": [
       {
-        "recipe_name": "Kathaler Burger",
+        "_id": "3-1",
+        "recipe_name": "Dosa",
+        "img": "https://i.ibb.co/8ssn7Pc/t8uw-hero.jpg",
         "ingredients": [
-          "beets",
-          "goat cheese",
-          "walnuts",
-          "balsamic vinegar",
-          "olive oil"
+          "Tender goat",
+          "Fried onions",
+          "Yoghurt",
+          "Fresh herbs",
+          "Olive oil"
         ],
-        "method": "Roast beets in oven, crumble goat cheese and chop walnuts, mix with balsamic and olive oil dressing.",
+        "method": "Marinate the meat, par-boil the rice, dum cook the biryani in the oven or stovetop, To marinate the meat, you will need to make some fried onions.",
         "rating": 4.9,
         "favourite": true
       },
       {
-        "recipe_name": "Misty",
+        "_id": "3-2",
+        "recipe_name": "Gulab Jamun",
+        "img": "https://i.ibb.co/7SP454y/t6ng-hero.webp",
         "ingredients": [
-          "pasta",
-          "basil",
-          "garlic",
-          "pine nuts",
-          "parmesan cheese"
+          "Boneless chicken",
+          "Ginger-garlic paste",
+          "Lemon",
+          "Yoghurt",
+          "Kasuri"
         ],
-        "method": "Cook pasta, blend basil, garlic, pine nuts, and parmesan cheese to make pesto sauce, toss with pasta.",
+        "method": "Serve simple Bengali garden salad, which is basically in a serving plate place sliced red onion, tomato, cucumber and drizzle lemon juice on the top.",
         "rating": 3.8,
         "favourite": true
       },
       {
-        "recipe_name": "Chicken Roast",
-        "ingredients": ["pani", "vat"],
-        "method": "Cook pasta, blend basil, garlic, pine nuts, and parmesan cheese to make pesto sauce, toss with pasta.",
+        "_id": "3-3",
+        "recipe_name": "Korma",
+        "img": "https://i.ibb.co/h21MxzZ/u4wl-hero.jpg",
+        "ingredients": ["Rice", "Chicken", "Fat", "Spices", "Green chillies"],
+        "method": "In a large bowl, season the chicken breast with salt, pepper, 1 teaspoon of chili powder, and the teaspoon of turmeric. Let sit for 15 minutes to marinate.",
         "rating": 4.7,
         "favourite": true
       }
@@ -136,35 +160,47 @@
     "bio": "Exec Chef Ranveer Brar is the mastermind behind the menu of Desi Food Hut in North Delhi. With 10 years of experience as well as a degree from the Culinary Academy of New York, he is an established name in the culinary world.",
     "recipes": [
       {
-        "recipe_name": "4 no chefs",
+        "_id": "4-1",
+        "recipe_name": "Madras Curry",
+        "img": "https://i.ibb.co/DpVrZkf/madras-curry.jpg",
         "ingredients": [
-          "beets",
-          "goat cheese",
-          "walnuts",
-          "balsamic vinegar",
-          "olive oil"
+          "Boneless chicken thigh",
+          "Salt",
+          "Ginger paste",
+          "Garlic paste",
+          "Paprika powder"
         ],
-        "method": "Roast beets in oven, crumble goat cheese and chop walnuts, mix with balsamic and olive oil dressing.",
+        "method": "In a large bowl, season the chicken breast with salt, pepper, 1 teaspoon of chili powder, and the teaspoon of turmeric. Let sit for 15 minutes to marinate.",
         "rating": 4.9,
         "favourite": true
       },
       {
-        "recipe_name": "4 no chefs recipe 2",
+        "_id": "4-2",
+        "recipe_name": "Mutter Paneer",
+        "img": "https://i.ibb.co/9NcR0Q0/matar-paneer.jpg",
         "ingredients": [
-          "pasta",
-          "basil",
-          "garlic",
-          "pine nuts",
-          "parmesan cheese"
+          "Mutton",
+          "Ginger paste",
+          "Urad dal",
+          "Chilli powder",
+          "Yoghurt"
         ],
-        "method": "Cook pasta, blend basil, garlic, pine nuts, and parmesan cheese to make pesto sauce, toss with pasta.",
+        "method": "Hyderabadi delicacy, wash and soak the broken wheat or dalia for half an hour. Trim the mutton (boneless) of any excess fat. Add the mutton to a pressure cooker.",
         "rating": 3.8,
         "favourite": true
       },
       {
-        "recipe_name": "4 no chefs recipe 3",
-        "ingredients": ["pani", "vat"],
-        "method": "Cook pasta, blend basil, garlic, pine nuts, and parmesan cheese to make pesto sauce, toss with pasta.",
+        "_id": "4-3",
+        "recipe_name": "Raita",
+        "img": "https://i.ibb.co/mcgBXVM/Indian-Raita-How-to-make-it-2.jpg",
+        "ingredients": [
+          "Green chillies",
+          "Beef",
+          "Black pepper",
+          "Salt",
+          "Garam masalas"
+        ],
+        "method": "In a large bowl, mix lamb mince with few Tbsp of vinegar, fenugreek leaves. Then add garlic paste, ginger paste, salt and black pepper as per taste.",
         "rating": 4.7,
         "favourite": true
       }
@@ -179,35 +215,41 @@
     "bio": "Garima Arora is a rising star in the Portland culinary scene. She’s the creative force behind the award-winning restaurant, Desi Food Hut, and is known for her flair for combining flavors from around the world.",
     "recipes": [
       {
-        "recipe_name": "5 no recipe 1",
+        "_id": "5-1",
+        "recipe_name": "Tandoori chicken",
+        "img": "https://i.ibb.co/7bzC69s/Tandoori-chicken-laccha-piyaz1-36886283595.jpg",
         "ingredients": [
-          "beets",
-          "goat cheese",
-          "walnuts",
-          "balsamic vinegar",
-          "olive oil"
+          "Tender goat",
+          "Fried onions",
+          "Yoghurt",
+          "Fresh herbs",
+          "Olive oil"
         ],
-        "method": "Roast beets in oven, crumble goat cheese and chop walnuts, mix with balsamic and olive oil dressing.",
+        "method": "Marinate the meat, par-boil the rice, dum cook the biryani in the oven or stovetop, To marinate the meat, you will need to make some fried onions.",
         "rating": 4.9,
         "favourite": true
       },
       {
-        "recipe_name": "5 no recipe 2",
+        "_id": "5-2",
+        "recipe_name": "Tikka masala",
+        "img": "https://i.ibb.co/NWdW02F/tikka.jpg",
         "ingredients": [
-          "pasta",
-          "basil",
-          "garlic",
-          "pine nuts",
-          "parmesan cheese"
+          "Boneless chicken",
+          "Ginger-garlic paste",
+          "Lemon",
+          "Yoghurt",
+          "Kasuri"
         ],
-        "method": "Cook pasta, blend basil, garlic, pine nuts, and parmesan cheese to make pesto sauce, toss with pasta.",
+        "method": "Serve simple Bengali garden salad, which is basically in a serving plate place sliced red onion, tomato, cucumber and drizzle lemon juice on the top.",
         "rating": 3.8,
         "favourite": true
       },
       {
-        "recipe_name": "5 no recipe 3",
-        "ingredients": ["pani", "vat"],
-        "method": "Cook pasta, blend basil, garlic, pine nuts, and parmesan cheese to make pesto sauce, toss with pasta.",
+        "_id": "5-3",
+        "recipe_name": "Saag Paneer",
+        "img": "https://i.ibb.co/S6j8H1C/s4sd-hero.jpg",
+        "ingredients": ["Rice", "Chicken", "Fat", "Spices", "Green chillies"],
+        "method": "In a large bowl, season the chicken breast with salt, pepper, 1 teaspoon of chili powder, and the teaspoon of turmeric. Let sit for 15 minutes to marinate.",
         "rating": 4.7,
         "favourite": true
       }
@@ -222,35 +264,47 @@
     "bio": " Atul Kochhar is the head chef at Desi Food Hut in London branch. His resume is impressive and includes stints with some of the most prestigious chefs in the country. Hes creative take on European classics make him an indispensable member of the restaurant’s staff.",
     "recipes": [
       {
-        "recipe_name": "6 no recipe 1",
+        "_id": "6-1",
+        "recipe_name": "Morog Polao",
+        "img": "https://i.ibb.co/br1LnX5/quzt-hero.webp",
         "ingredients": [
-          "beets",
-          "goat cheese",
-          "walnuts",
-          "balsamic vinegar",
-          "olive oil"
+          "Green chillies",
+          "Beef",
+          "Black pepper",
+          "Salt",
+          "Garam masalas"
         ],
-        "method": "Roast beets in oven, crumble goat cheese and chop walnuts, mix with balsamic and olive oil dressing.",
+        "method": "In a large bowl, season the chicken breast with salt, pepper, 1 teaspoon of chili powder, and the teaspoon of turmeric. Let sit for 15 minutes to marinate.",
         "rating": 4.9,
         "favourite": true
       },
       {
-        "recipe_name": "6 no recipe 1",
+        "_id": "6-2",
+        "recipe_name": "Sheekh Kabab",
+        "img": "https://i.ibb.co/6vr7NS5/zglw-hero.webp",
         "ingredients": [
-          "pasta",
-          "basil",
-          "garlic",
-          "pine nuts",
-          "parmesan cheese"
+          "Mutton",
+          "Ginger paste",
+          "Urad dal",
+          "Chilli powder",
+          "Yoghurt"
         ],
-        "method": "Cook pasta, blend basil, garlic, pine nuts, and parmesan cheese to make pesto sauce, toss with pasta.",
+        "method": "In a large bowl, season the chicken breast with salt, pepper, 1 teaspoon of chili powder, and the teaspoon of turmeric. Let sit for 15 minutes to marinate.",
         "rating": 3.8,
         "favourite": true
       },
       {
-        "recipe_name": "6 no recipe 1",
-        "ingredients": ["pani", "vat"],
-        "method": "Cook pasta, blend basil, garlic, pine nuts, and parmesan cheese to make pesto sauce, toss with pasta.",
+        "_id": "6-3",
+        "recipe_name": "Madras Curry",
+        "img": "https://i.ibb.co/DpVrZkf/madras-curry.jpg",
+        "ingredients": [
+          "Boneless chicken thigh",
+          "Salt",
+          "Ginger paste",
+          "Garlic paste",
+          "Paprika powder"
+        ],
+        "method": "In a large bowl, mix lamb mince with few Tbsp of vinegar, fenugreek leaves. Then add garlic paste, ginger paste, salt and black pepper as per taste.",
         "rating": 4.7,
         "favourite": true
       }
