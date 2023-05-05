@@ -3,7 +3,8 @@
     "id": "1b2c9449-f9d9-4162-a8d1-aa1c1b10151d",
     "name": "Vikas Khanna",
     "picture": "https://i.ibb.co/7bG7F3v/338455817-6820565907960541-7816287672117287157-n.jpg",
-    "experience": 50,
+    "experience": 12,
+    "bio": "Chef Vikas Khanna is a classically trained Indian chef with over 20 years of experience in the culinary industry. He started his career in Delhi, where he worked at several Michelin-starred restaurants before moving to New York City to work at some of the top restaurants in the city. Chef Khanna is known for his innovative use of fresh, seasonal ingredients and his ability to create dishes that are both delicious and visually stunning.",
     "recipes": [
       {
         "recipe_name": "Roasted Beet Salad",
@@ -45,7 +46,8 @@
     "id": "c29b9a56-16a8-41e1-80a2-1b77d4097f8f",
     "name": "Sanjeev Kapoor",
     "picture": "https://i.ibb.co/mRLW4Qv/img-106499-chefsanjeevkapoor3.jpg",
-    "experience": 30,
+    "experience": 20,
+    "bio": "Chef Sanjeev Kapoor is a culinary prodigy whose passion has taken him around the world. Experienced in French, Italian, and Asian cuisine, he has earned repute in the kitchen as well as recognition among the food critics.",
     "recipes": [
       {
         "recipe_name": "Chicken Polao",
@@ -87,7 +89,8 @@
     "id": "ac712b2d-d6d1-4ab7-96e0-0e3b308dcbd9",
     "name": "Shipra Khanna",
     "picture": "https://i.ibb.co/S07j673/images.jpg",
-    "experience": 25,
+    "experience": 8,
+    "bio": "Sous Chef Shipra Khanna is the woman behind the flavor of Californi's well-renowned Desi Food Hut. Her prior experience in Asian cuisine is evident in every bite he serves. Heavy on flavor and light on calories, her dishes are always fresh and delicious.",
     "recipes": [
       {
         "recipe_name": "Kathaler Burger",
@@ -129,7 +132,8 @@
     "id": "f91c26e2-2a57-4b89-8e68-53d44e2f023a",
     "name": "Ranveer Brar",
     "picture": "https://i.ibb.co/hmWNPcr/images-1.jpg",
-    "experience": 30,
+    "experience": 10,
+    "bio": "Exec Chef Ranveer Brar is the mastermind behind the menu of Desi Food Hut in North Delhi. With 10 years of experience as well as a degree from the Culinary Academy of New York, he is an established name in the culinary world.",
     "recipes": [
       {
         "recipe_name": "4 no chefs",
@@ -171,7 +175,8 @@
     "id": "b317c268-4ad4-4c4f-a4d5-1a52f9e3ba3e",
     "name": "Garima Arora",
     "picture": "https://i.ibb.co/4F0xXfm/file-C4-L739-YU.jpg",
-    "experience": 15,
+    "experience": 5,
+    "bio": "Garima Arora is a rising star in the Portland culinary scene. She’s the creative force behind the award-winning restaurant, Desi Food Hut, and is known for her flair for combining flavors from around the world.",
     "recipes": [
       {
         "recipe_name": "5 no recipe 1",
@@ -214,6 +219,7 @@
     "name": "Atul Kochhar",
     "picture": "https://i.ibb.co/GWQ33h8/licensed-image.jpg",
     "experience": 30,
+    "bio": " Atul Kochhar is the head chef at Desi Food Hut in London branch. His resume is impressive and includes stints with some of the most prestigious chefs in the country. Hes creative take on European classics make him an indispensable member of the restaurant’s staff.",
     "recipes": [
       {
         "recipe_name": "6 no recipe 1",
